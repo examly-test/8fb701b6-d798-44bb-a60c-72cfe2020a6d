@@ -1,0 +1,1 @@
+a=$(git rev-parse --abbrev-ref HEAD) && echo $a
